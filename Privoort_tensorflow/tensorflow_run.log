@@ -1,0 +1,50 @@
+2026-01-07 10:33:34.559900: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.
+WARNING: The input does not fit in a single ciphertext, and some operations will be disabled.
+The following operations are disabled in this setup: matmul, matmul_plain, enc_matmul_plain, conv2d_im2col.
+If you need to use those operations, try increasing the poly_modulus parameter, to fit your input.

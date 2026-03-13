@@ -1,0 +1,48 @@
+[clients]
+total_clients = 10
+per_round = 3
+random_seed = 1
+
+[server]
+exploration_factor = 0.9
+desired_duration = 50          # 期望训练时长（秒级可按需调整）
+step_window = 2
+penalty = 2
+cut_off = 0.95
+blacklist_num = 10
+
+[trainer]
+rounds = 5
+epochs = 2
+batch_size = 10
+target_accuracy = 0.99
+
+[parameters.optimizer]
+lr = 0.01
+momentum = 0.9
+weight_decay = 0.0
+
+[data]
+datasource = "Torchvision"
+dataset_name = "MNIST"
+download = true
+data_path = "data"
+sampler = "Non-iid"   # 或 "iid"
+dirichlet_alpha = 0.07
+test_batch_size = 256
+
+[results]
+result_path = "results/test"
+metrics_csv = "results/test/metrics.csv"
+
+[model]
+model_name = "lenet5"
+num_classes = 10
+
+[he]
+use_he = true
+ckks_context_dir = ".ckks_context"
+poly_modulus_degree = 8192
+coeff_mod_bit_sizes = [60, 40, 40, 60]
+global_scale = 1099511627776  # 2**40
+
