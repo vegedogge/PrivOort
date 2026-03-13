@@ -1,0 +1,1 @@
+This is a privacy-preserving Federated Learning project suitable for IID (Independently and Identically Distributed) data distributions. It utilizes homomorphic encryption to calculate the statistical heterogeneity of clients, enabling the screening of the most appropriate federated learning participants for each round.
